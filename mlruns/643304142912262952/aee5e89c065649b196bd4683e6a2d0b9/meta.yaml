@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DSIR%20Semestre2/ML/tp_mlpos/mlruns/643304142912262952/aee5e89c065649b196bd4683e6a2d0b9/artifacts
+end_time: 1745832658791
+entry_point_name: ''
+experiment_id: '643304142912262952'
+lifecycle_stage: active
+run_id: aee5e89c065649b196bd4683e6a2d0b9
+run_name: gifted-gnu-909
+run_uuid: aee5e89c065649b196bd4683e6a2d0b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745832652521
+status: 3
+tags: []
+user_id: user
